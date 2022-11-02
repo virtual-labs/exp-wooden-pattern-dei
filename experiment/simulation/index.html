@@ -1,13 +1,149 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
-		<!-- Your code goes here-->
-
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
+<header>
+  <button class="menu-btn" onclick="dispmenu(this)">
+  <div class="container">
+  <div class="bar1"></div>
+  <div class="bar2"></div>
+  <div class="bar3"></div>
+  </div></button>
+  <b id="pagechanger">Pattern Making of Wood</b>
+</header>
+<nav class="side-nav" id="navbar">
+		<div class="nav-element">
+			<a href="../index.html" >Aim</a>
+		</div>
+		<div class="nav-element">
+			<a href="../theory.html" >Theory</a>
+		</div>
+		<div class="nav-element">
+			<a href="../objective.html" >Objective</a>
+		</div>
+		<div class="nav-element">
+			<a href="../pretest.html" >Pretest</a>
+		</div>
+		<div class="nav-element">
+			<a href="../procedure.html" >Procedure</a>
+		</div>
+		<div class="nav-element">
+			<a href="index.html" >
+			<span>Simulation</span></a>
+		</div>
+		<div class="nav-element">
+			<a href="../posttest.html" >Posttest</a>
+		</div>
+		<div class="nav-element">
+			<a href="../references.html" >References</a>
+		</div>
+		<div class="nav-element">
+			<a href="../feedback.html" >Feedback</a>
+		</div>
+		</nav>
+		
+	<div id="simulation-cont">
+		<div id="matwork">
+			<div style="height:600px;">
+				Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab<br>
+				Experiment 3: Pattern Making of Wood<br>
+				<div id="simulation">
+				<img src="images/woodType.gif" width="75%">
+				</div>
+				
+				<div class="dimensions" id="dimension">
+				<b style="color:red;">Click on <u>OK</u> to know about dimensions</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="dimensions()"><br>
+				</div>
+				
+				<div class="sidecontainer" id="cylinder30mm">
+				<b style="color:red;">Click on <u>OK</u> for measuring specimen of 30mm diameter</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="cylinder30mm()"><br>
+				</div>
+				
+				<div class="sidecontainer" id="height20mm">
+				<b style="color:red;">Click on <u>OK</u> for measuring height of cylinder (20mm)</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="height20mm()"><br>
+				</div>
+				
+				<div class="sidecontainer" id="specimen1">
+				<b style="color:red;">Click on <u>OK</u> for preparing first specimen</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="specimen1()"><br>
+				</div>
+				
+				<div class="sidecontainer" id="cylinder40mm">
+				<b style="color:red;">Click on <u>NEXT</u> for measuring specimen of 40mm diameter</b><br><br>
+				<img src="images/next.jpg" width="30%" title="Click here" onclick="cylinder40mm()"><br>
+				</div>
+				
+				<div class="sidecontainer" id="height30mm">
+				<b style="color:red;">Click on <u>OK</u> for measuring height of cylinder (20mm)</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="height30mm()"><br>
+				</div>
+				
+				<div class="sidecontainer" id="specimen2">
+				<b style="color:red;">Click on <u>OK</u> for preparing second specimen</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="specimen2()"><br>
+				</div>
+				
+				<div class="sidecontainer" id="cylinder50mm">
+				<b style="color:red;">Click on <u>NEXT</u> for measuring specimen of 50mm diameter</b><br><br>
+				<img src="images/next.jpg" width="30%" title="Click here" onclick="cylinder50mm()"><br>
+				</div>
+				
+				<div class="sidecontainer" id="height10mm">
+				<b style="color:red;">Click on <u>OK</u> for measuring height of cylinder (10mm)</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="height10mm()"><br>
+				</div>
+				
+				<div class="sidecontainer" id="specimen3">
+				<b style="color:red;">Click on <u>OK</u> for preparing third specimen</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="specimen3()"><br>
+				</div>
+			</div>
+<img src="images/reset.jpg" align="right" width="7%" onclick="resetfun()"><br>
+<hr>
+	<div id="about">
+		<div class="box" id="zoom">
+			<img src="images/guage.jpg" title="Mortise Marking Gauge">
+			<h3 class="h-secondary center">Mortise Gauge</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/scale.jpg" title="Scale">
+			<h3 class="h-secondary center">Scale</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/specimen.jpg" title="Specimen">
+			<h3 class="h-secondary center">Specimen</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/saw.jpg" title="Hack Saw">
+			<h3 class="h-secondary center">Hack Saw</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/patterns.jpg" title="Patterns">
+			<h3 class="h-secondary center">Patterns</h3>
+		</div>
+		
+	</div>
+	</div>
+</div>
+<div style="margin-top:25px" id="footer">
+<hr>
+<Marquee>
+Copyright &copy; Dayalbagh Educational Institute&nbsp;<a href="https://www.dei.ac.in" target="_blank" title="DEI">(www.dei.ac.in)</a>&nbsp;-&nbsp;<a href="http://msvs-dei.vlabs.ac.in/ajay/index.html" target="_blank" title="Profile">Ajay Kant Upadhyay</a>
+</Marquee>
+</div>
+</body>
 </body>
 </html>

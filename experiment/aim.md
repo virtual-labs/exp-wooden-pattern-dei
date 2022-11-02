@@ -1,6 +1,6 @@
-### To Design and Manufacture a Wooden Pattern for a given Casting<br>
-### Material Required: Teak wood of 70 x 70 x 70 mm<sup>3</sup><br>
-### Equipment and tools required:<br>
+## To Design and Manufacture a Wooden Pattern for a given Casting<br>
+## Material Required: Teak wood of 70 x 70 x 70 mm<sup>3</sup><br>
+## Equipment and tools required:<br>
 1. Hack Saw<br>
 2. Jack Plane<br>
 3. Steel Rule<br>
