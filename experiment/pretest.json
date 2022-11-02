@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Sometimes when the patterns are made with slightly tapered surface, the allowance is called:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Shrinkage allowance",
+        "b": "Machining allowance",
+        "c": "Draft allowance",
+        "d": "Shake allowance"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,63 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Riser is necessary because it compensates:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Shrinkage allowance",
+        "b": "Machining allowance",
+        "c": "Draft allowance",
+        "d": "Shake allowance"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Machining allowance is necessary in casting because:",
+      "answers": {
+        "a": "Material may contract",
+        "b": "For finishing operation after casting, we may lose dimensional parameters",
+        "c": "Of removing the patterns easily",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which material is used for making pattern in sand casting?",
+      "answers": {
+        "a": "Wood",
+        "b": "Plastic",
+        "c": "Metal",
+        "d": "All of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In which of the following pattern, multi-cavity mould may be prepared during casting:",
+      "answers": {
+        "a": "Solid pattern",
+        "b": "Gates pattern",
+        "c": "Match plate pattern",
+        "d": "None of these"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",

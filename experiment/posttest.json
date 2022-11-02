@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In ----- internal dimensions are decreased and external dimensions are increased",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Shrinkage allowance",
+        "b": "Machining allowance",
+        "c": "Draft allowance",
+        "d": "Shake allowance"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,63 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "If the sand doesn’t have sufficient permeability which of the following defect is cause:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Drop",
+        "b": "Hot tears",
+        "c": "Blow holes",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Patterns can’t be made for which of the following material?",
+      "answers": {
+        "a": "Plastic",
+        "b": "Wax",
+        "c": "Wood",
+        "d": "Oil"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When is the wooden pattern considered dry?",
+      "answers": {
+        "a": "0%",
+        "b": "5%",
+        "c": "Less than 10%",
+        "d": "Less than 15%"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In comparison to wooden pattern the draft allowance on metallic pattern is:",
+      "answers": {
+        "a": "same",
+        "b": "more",
+        "c": "less",
+        "d": "None of these"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
