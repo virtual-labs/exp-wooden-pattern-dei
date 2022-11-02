@@ -19,25 +19,24 @@ Besides the hand tools, a modern pattern makers shop needs some power-driven mac
 • Improving accuracy and maintaining consistency in the patterns.
 
 ## Performing many more operations easily and conveniently.
-The following tools are used for different purposes by a pattern maker.
-(a) Measuring, Making and Layout Tools
-(i) Steel rule 			(ii) Shrinkage rule
-(ii) Caliper 			(iv) Divider
-(v) Marking gauge 		(vi) Trammels
-(vii) Try square 		(viii) T-bevel
+The following tools are used for different purposes by a pattern maker.<br>
+(a) Measuring, Making and Layout Tools<br>
+(i) Steel rule 			(ii) Shrinkage rule<br>
+(ii) Caliper 			(iv) Divider<br>
+(v) Marking gauge 		(vi) Trammels<br>
+(vii) Try square 		(viii) T-bevel<br>
 (ix) Combination square.
 
-(b) Tools for clamping purposes:
-(i) Hand vice (ii) Pattern maker’s vice
-(iii) Bar clamp (iv) C-clamp
-(v) Hand screw
-(vi) Pinch dog (to hold wooden pieces together for joining etc.).
+(b) Tools for clamping purposes:<br>
+(i) Hand vice (ii) Pattern maker’s vice<br>
+(iii) Bar clamp (iv) C-clamp<br>
+(v) Hand screw	(vi) Pinch dog (to hold wooden pieces together for joining etc.).
 
-(c) Sawing Tools:
-(i) Coping saw (ii) Bow saw
-(iii) Compass saw (iv) Rip saw
-(v) Crosscut saw (vi) panel saw
-(vii) Back saw (viii) Dovetail saw
+(c) Sawing Tools:<br>
+(i) Coping saw (ii) Bow saw<br>
+(iii) Compass saw (iv) Rip saw<br>
+(v) Crosscut saw (vi) panel saw<br>
+(vii) Back saw (viii) Dovetail saw<br>
 (ix) Miter saw with miter box.
 
 ## Allowances:
@@ -46,9 +45,9 @@ certain allowances due to mechanical reasons and metallurgical reasons for examp
 shrinkage allowance is the result of metallurgical phenomenon whereas machining, 
 draft, and other allowances are provided on the patterns because of mechanical reasons.
 
-The various pattern allowances are:
-(a) Shrinkage or contraction allowance.
-(b) Machining or finishing allowance.
-(c) Draft or topper allowance.
-(d) Distortion or camber allowance.
+The various pattern allowances are:<br>
+(a) Shrinkage or contraction allowance.<br>
+(b) Machining or finishing allowance.<br>
+(c) Draft or topper allowance.<br>
+(d) Distortion or camber allowance.<br>
 (e) Shake or rapping allowance
