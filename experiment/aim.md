@@ -1,4 +1,4 @@
-## To Design and Manufacture a Wooden Pattern for a given Casting
+### To Design and Manufacture a Wooden Pattern for a given Casting
 
 ### Material Required: 
 Teak wood of 70 x 70 x 70 mm<sup>3</sup>
