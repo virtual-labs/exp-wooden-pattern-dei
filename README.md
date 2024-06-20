@@ -4,13 +4,11 @@
 <b>Discipline | <b> Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab
-<b> Experiment|     <b> To determine the content of clay present in base sand.
+<b> Experiment|     <b> To Design and Manufacture a Wooden Pattern for a given Casting.
 
 ### About the Experiment 
 
-Clay is extremely fine-grained natural soil material (with < 2 microns size) containing clay minerals (aluminum silicate), 
-which acts as binder material in molding sand. Moulding sand contains 2 – 50% clay. 
-When clay is mixed with water it imparts strength, plasticity and good binding strength
+A pattern prepares a mould cavity for the purpose of making a casting. A pattern may contain projections known as core prints if the casting requires a core and need to be hallow.
  
 <b>Name of Developer | <b> Prof. Rahul Swarup Sharma
 :--|:--|
