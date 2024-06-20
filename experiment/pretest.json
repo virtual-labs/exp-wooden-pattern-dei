@@ -10,10 +10,10 @@
         "d": "Shake allowance"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity",
+        "b": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity",
+        "c": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity",
+        "d": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,7 +27,7 @@
         "d": "Shake allowance"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1  <a href='http://www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
