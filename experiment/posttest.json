@@ -10,10 +10,10 @@
         "d": "Shake allowance"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Shake allowance adjusts for dimensional changes caused by sand movement during casting. Internal dimensions are increased and external dimensions decreased to ensure final casting matches intended specifications.",
+        "b": "Shake allowance adjusts for dimensional changes caused by sand movement during casting. Internal dimensions are increased and external dimensions decreased to ensure final casting matches intended specifications.",
+        "c": "Shake allowance adjusts for dimensional changes caused by sand movement during casting. Internal dimensions are increased and external dimensions decreased to ensure final casting matches intended specifications.",
+        "d": "Shake allowance adjusts for dimensional changes caused by sand movement during casting. Internal dimensions are increased and external dimensions decreased to ensure final casting matches intended specifications."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Insufficient permeability in the sand prevents gases from escaping during the casting process. As molten metal flows into the mold cavity, gases trapped in the sand cannot escape through the mold surface, leading to the formation of blow holes in the final casting.",
+        "b": "Insufficient permeability in the sand prevents gases from escaping during the casting process. As molten metal flows into the mold cavity, gases trapped in the sand cannot escape through the mold surface, leading to the formation of blow holes in the final casting.",
+        "c": "Insufficient permeability in the sand prevents gases from escaping during the casting process. As molten metal flows into the mold cavity, gases trapped in the sand cannot escape through the mold surface, leading to the formation of blow holes in the final casting.",
+        "d": "Insufficient permeability in the sand prevents gases from escaping during the casting process. As molten metal flows into the mold cavity, gases trapped in the sand cannot escape through the mold surface, leading to the formation of blow holes in the final casting."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Oil"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Patterns are typically made from solid materials that can retain their shape and provide a template for the casting process. Oil, being a liquid, cannot maintain the necessary structural integrity to serve as a pattern for casting. Therefore, patterns cannot be made from oil.",
+        "b": "Patterns are typically made from solid materials that can retain their shape and provide a template for the casting process. Oil, being a liquid, cannot maintain the necessary structural integrity to serve as a pattern for casting. Therefore, patterns cannot be made from oil.",
+        "c": "Patterns are typically made from solid materials that can retain their shape and provide a template for the casting process. Oil, being a liquid, cannot maintain the necessary structural integrity to serve as a pattern for casting. Therefore, patterns cannot be made from oil.",
+        "d": "Patterns are typically made from solid materials that can retain their shape and provide a template for the casting process. Oil, being a liquid, cannot maintain the necessary structural integrity to serve as a pattern for casting. Therefore, patterns cannot be made from oil."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Less than 15%"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Wooden patterns are considered dry when their moisture content is less than 15% because at this moisture level, the wood has stabilized and is less likely to warp, distort, or introduce defects into the casting process due to moisture-related changes.",
+        "b": "Wooden patterns are considered dry when their moisture content is less than 15% because at this moisture level, the wood has stabilized and is less likely to warp, distort, or introduce defects into the casting process due to moisture-related changes.",
+        "c": "Wooden patterns are considered dry when their moisture content is less than 15% because at this moisture level, the wood has stabilized and is less likely to warp, distort, or introduce defects into the casting process due to moisture-related changes.",
+        "d": "Wooden patterns are considered dry when their moisture content is less than 15% because at this moisture level, the wood has stabilized and is less likely to warp, distort, or introduce defects into the casting process due to moisture-related changes."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The draft allowance on metallic patterns is generally less than on wooden patterns due to the smoother surfaces and greater dimensional stability of metallic patterns, requiring less draft for their removal from the mold cavity.",
+        "b": "The draft allowance on metallic patterns is generally less than on wooden patterns due to the smoother surfaces and greater dimensional stability of metallic patterns, requiring less draft for their removal from the mold cavity.",
+        "c": "The draft allowance on metallic patterns is generally less than on wooden patterns due to the smoother surfaces and greater dimensional stability of metallic patterns, requiring less draft for their removal from the mold cavity.",
+        "d": "The draft allowance on metallic patterns is generally less than on wooden patterns due to the smoother surfaces and greater dimensional stability of metallic patterns, requiring less draft for their removal from the mold cavity."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
