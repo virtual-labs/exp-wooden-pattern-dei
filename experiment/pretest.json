@@ -10,10 +10,10 @@
         "d": "Shake allowance"
       },
       "explanations": {
-        "a": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity",
-        "b": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity",
-        "c": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity",
-        "d": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity"
+        "a": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity.",
+        "b": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity.",
+        "c": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity.",
+        "d": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Shake allowance"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='http://www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Risers are necessary because they provide a reservoir of molten metal to compensate for shrinkage during solidification. As the casting cools, it undergoes shrinkage, which can result in defects like shrinkage voids.",
+        "b": "Risers are necessary because they provide a reservoir of molten metal to compensate for shrinkage during solidification. As the casting cools, it undergoes shrinkage, which can result in defects like shrinkage voids.",
+        "c": "Risers are necessary because they provide a reservoir of molten metal to compensate for shrinkage during solidification. As the casting cools, it undergoes shrinkage, which can result in defects like shrinkage voids.",
+        "d": "Risers are necessary because they provide a reservoir of molten metal to compensate for shrinkage during solidification. As the casting cools, it undergoes shrinkage, which can result in defects like shrinkage voids."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Machining allowance in casting compensates for potential dimensional variations during the casting process, ensuring that final parts can be machined to meet required specifications.",
+        "b": "Machining allowance in casting compensates for potential dimensional variations during the casting process, ensuring that final parts can be machined to meet required specifications.",
+        "c": "Machining allowance in casting compensates for potential dimensional variations during the casting process, ensuring that final parts can be machined to meet required specifications.",
+        "d": "Machining allowance in casting compensates for potential dimensional variations during the casting process, ensuring that final parts can be machined to meet required specifications."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "All of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Wood, metal, and plastic are commonly used for making patterns in sand casting due to their distinct properties and suitability for different casting applications: wood for cost-effectiveness and ease of shaping, metal for durability and precision, and plastic for rapid prototyping and short production runs.",
+        "b": "Wood, metal, and plastic are commonly used for making patterns in sand casting due to their distinct properties and suitability for different casting applications: wood for cost-effectiveness and ease of shaping, metal for durability and precision, and plastic for rapid prototyping and short production runs.",
+        "c": "Wood, metal, and plastic are commonly used for making patterns in sand casting due to their distinct properties and suitability for different casting applications: wood for cost-effectiveness and ease of shaping, metal for durability and precision, and plastic for rapid prototyping and short production runs.",
+        "d": "Wood, metal, and plastic are commonly used for making patterns in sand casting due to their distinct properties and suitability for different casting applications: wood for cost-effectiveness and ease of shaping, metal for durability and precision, and plastic for rapid prototyping and short production runs."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Multi-cavity molds are typically prepared during casting with a Split Pattern.",
+        "b": "Multi-cavity molds are typically prepared during casting with a Split Pattern.",
+        "c": "Multi-cavity molds are typically prepared during casting with a Split Pattern.",
+        "d": "Multi-cavity molds are typically prepared during casting with a Split Pattern."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
