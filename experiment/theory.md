@@ -1,25 +1,35 @@
 ### Pattern
-1.	A pattern is a mould forming tool in the hands of foundry men. 
-2.	A pattern is the model or the replica of the object to cast. 
-3.	Except for the various allowances a pattern exactly resembles the casting to be made. 
-4.	A pattern may be defined as a model or form around which sand is packed to give rise to a cavity known as mould cavity in which when molten metal is poured, the result is cast object.
+
+A pattern is a mould-forming tool used in foundries. It is a model or replica of the object to be cast. Except for various allowances, a pattern closely resembles the final casting.
+
+A pattern can be defined as a model or form around which sand is packed to create a mould cavity. When molten metal is poured into this cavity and allowed to solidify, it results in the final cast object.
 
 ### Functions of a Pattern: 
-1.	A pattern prepares a mould cavity for the purpose of making a casting.
-2.	A pattern may contain projections known as core prints if the casting requires a core and need to be hallow.
-3.	Runner, gates and risers (used for introducing and feeding molten metal to the mould cavity) may form the part of the pattern. 
-4.	A pattern may help in establishing locating points on the mould and therefore on the casting with a purpose to check the casting dimensions. 
-5.	Pattern establishes the parting line and parting surfaces in the mould. 
-6.	Patterns properly made and having finished and smooth surfaces reduce casting defects.  
-7.	Properly constructed patterns minimize overall cost of the castings.
+
+It creates a mould cavity for casting.
+
+If the casting requires a core to be hollow, the pattern includes core prints to support the core inside the mould.
+
+Runners, gates, and risers, which help introduce and feed molten metal to the mould cavity, may be part of the pattern.
+
+It helps establish locating points on the mould to ensure proper casting dimensions.
+
+It determines the parting line and parting surfaces in the mould.
+
+A well-made pattern with a smooth finish reduces casting defects.
+
+Properly constructed patterns help in minimizing the overall cost of the casting process.
+
 
 ### Pattern Making Machines: 
-Besides the hand tools, a modern pattern makers shop needs some power-driven machines also. These machines help the pattern maker in 
+Apart from hand tools, modern pattern-making shops use power-driven machines to enhance production efficiency and accuracy. These machines help in:
 • Increasing production. 
 • Improving accuracy and maintaining consistency in the patterns.
+• Performing various operations more conveniently.
 
-### Performing many more operations easily and conveniently.
-The following tools are used for different purposes by a pattern maker.<br>
+### Tools Used in Pattern Making:
+Different tools are used in pattern making based on their function.
+
 (a) Measuring, Making and Layout Tools<br>
 (i) Steel rule 			(ii) Shrinkage rule<br>
 (ii) Caliper 			(iv) Divider<br>
@@ -27,7 +37,7 @@ The following tools are used for different purposes by a pattern maker.<br>
 (vii) Try square 		(viii) T-bevel<br>
 (ix) Combination square.
 
-(b) Tools for clamping purposes:<br>
+(b) Clamping Tools::<br>
 (i) Hand vice (ii) Pattern maker’s vice<br>
 (iii) Bar clamp (iv) C-clamp<br>
 (v) Hand screw	(vi) Pinch dog (to hold wooden pieces together for joining etc.).
@@ -39,15 +49,12 @@ The following tools are used for different purposes by a pattern maker.<br>
 (vii) Back saw (viii) Dovetail saw<br>
 (ix) Miter saw with miter box.
 
-### Allowances:
-A pattern is always larger in size when compared to normal casting, because it carries 
-certain allowances due to mechanical reasons and metallurgical reasons for example, 
-shrinkage allowance is the result of metallurgical phenomenon whereas machining, 
-draft, and other allowances are provided on the patterns because of mechanical reasons.
+### Pattern Allowances:
+A pattern is always made slightly larger than the final casting to account for various mechanical and metallurgical factors. These allowances ensure that the final casting has the required shape and dimensions.
 
-The various pattern allowances are:<br>
-(a) Shrinkage or contraction allowance.<br>
-(b) Machining or finishing allowance.<br>
-(c) Draft or topper allowance.<br>
-(d) Distortion or camber allowance.<br>
-(e) Shake or rapping allowance
+The different types of pattern allowances are:
+1. Shrinkage or Contraction Allowance: Compensates for the shrinkage of metal as it cools.<br>
+2. Machining or Finishing Allowance: Extra material is added to allow for machining and finishing.<br>
+3. Draft or Taper Allowance: Ensures easy removal of the pattern from the mould without damaging it.<br>
+4. Distortion or Camber Allowance: Given to counteract possible warping or distortion of the casting during cooling.<br>
+5. Shake or Rapping Allowance: Accounts for the slight movement of the pattern while removing it from the mould.<br>
