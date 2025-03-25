@@ -1,5 +1,13 @@
 ### To Design and Manufacture a Wooden Pattern for a given Casting
 
+### Learning Objectives:
+
+LO1- To understand the purpose and function of patterns in casting - role of patterns in creating mould cavities and their impact on the final casting process.
+
+LO2- To identify and use the appropriate tools for pattern making - Recognize various measuring, cutting, and clamping tools and demonstrate their correct usage in pattern making.
+
+LO3- To understand pattern allowances to ensure accurate casting – Calculating and incorporate different allowances (shrinkage, machining, draft, etc.) to compensate for dimensional changes in the final cast.
+
 ### Material Required: 
 Teak wood of 70 x 70 x 70 mm<sup>3</sup>
 
