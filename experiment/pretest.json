@@ -2,88 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Sometimes when the patterns are made with slightly tapered surface, the allowance is called:",
+      "question": "What is a pattern in the casting process? (LO1)",
       "answers": {
-        "a": "Shrinkage allowance",
-        "b": "Machining allowance",
-        "c": "Draft allowance",
-        "d": "Shake allowance"
+        "a": "A moulding material",
+        "b": "A tool for shaping metal",
+        "c": "A model used to create a mould cavity",
+        "d": "A finished casting"
       },
       "explanations": {
-        "a": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity.",
-        "b": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity.",
-        "c": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity.",
-        "d": "Draft allowance is necessary when patterns have slightly tapered surfaces because it facilitates the removal of the pattern from the mold cavity."
+        "a": "A pattern is a replica of the final casting, designed to form the cavity in which molten metal is poured. It accounts for various allowances like shrinkage, machining, and draft.",
+        "b": "A pattern is a replica of the final casting, designed to form the cavity in which molten metal is poured. It accounts for various allowances like shrinkage, machining, and draft.",
+        "c": "A pattern is a replica of the final casting, designed to form the cavity in which molten metal is poured. It accounts for various allowances like shrinkage, machining, and draft.",
+        "d": "A pattern is a replica of the final casting, designed to form the cavity in which molten metal is poured. It accounts for various allowances like shrinkage, machining, and draft."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "Riser is necessary because it compensates:",
+      "question": "Why are patterns made larger than the actual casting? (LO3)",
       "answers": {
-        "a": "Shrinkage allowance",
-        "b": "Machining allowance",
-        "c": "Draft allowance",
-        "d": "Shake allowance"
+        "a": "To increase production speed",
+        "b": "To compensate for shrinkage and machining allowances",
+        "c": "To reduce material usage",
+        "d": "To avoid the use of cores"
       },
       "explanations": {
-        "a": "Risers are necessary because they provide a reservoir of molten metal to compensate for shrinkage during solidification. As the casting cools, it undergoes shrinkage, which can result in defects like shrinkage voids.",
-        "b": "Risers are necessary because they provide a reservoir of molten metal to compensate for shrinkage during solidification. As the casting cools, it undergoes shrinkage, which can result in defects like shrinkage voids.",
-        "c": "Risers are necessary because they provide a reservoir of molten metal to compensate for shrinkage during solidification. As the casting cools, it undergoes shrinkage, which can result in defects like shrinkage voids.",
-        "d": "Risers are necessary because they provide a reservoir of molten metal to compensate for shrinkage during solidification. As the casting cools, it undergoes shrinkage, which can result in defects like shrinkage voids."
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Machining allowance is necessary in casting because:",
-      "answers": {
-        "a": "Material may contract",
-        "b": "For finishing operation after casting, we may lose dimensional parameters",
-        "c": "Of removing the patterns easily",
-        "d": "None of these"
-      },
-      "explanations": {
-        "a": "Machining allowance in casting compensates for potential dimensional variations during the casting process, ensuring that final parts can be machined to meet required specifications.",
-        "b": "Machining allowance in casting compensates for potential dimensional variations during the casting process, ensuring that final parts can be machined to meet required specifications.",
-        "c": "Machining allowance in casting compensates for potential dimensional variations during the casting process, ensuring that final parts can be machined to meet required specifications.",
-        "d": "Machining allowance in casting compensates for potential dimensional variations during the casting process, ensuring that final parts can be machined to meet required specifications."
+        "a": "When molten metal cools and solidifies, it shrinks, which could lead to dimensional inaccuracies. To counteract this, patterns are made larger by adding shrinkage and machining allowances.",
+        "b": "When molten metal cools and solidifies, it shrinks, which could lead to dimensional inaccuracies. To counteract this, patterns are made larger by adding shrinkage and machining allowances.",
+        "c": "When molten metal cools and solidifies, it shrinks, which could lead to dimensional inaccuracies. To counteract this, patterns are made larger by adding shrinkage and machining allowances.",
+        "d": "When molten metal cools and solidifies, it shrinks, which could lead to dimensional inaccuracies. To counteract this, patterns are made larger by adding shrinkage and machining allowances."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "Which material is used for making pattern in sand casting?",
+      "question": "What is the function of a runner in the moulding process? (LO1)",
       "answers": {
-        "a": "Wood",
-        "b": "Plastic",
-        "c": "Metal",
-        "d": "All of these"
+        "a": "To support the core",
+        "b": "To allow gases to escape",
+        "c": "To distribute molten metal to the mould cavity",
+        "d": "To improve surface finish"
       },
       "explanations": {
-        "a": "Wood, metal, and plastic are commonly used for making patterns in sand casting due to their distinct properties and suitability for different casting applications: wood for cost-effectiveness and ease of shaping, metal for durability and precision, and plastic for rapid prototyping and short production runs.",
-        "b": "Wood, metal, and plastic are commonly used for making patterns in sand casting due to their distinct properties and suitability for different casting applications: wood for cost-effectiveness and ease of shaping, metal for durability and precision, and plastic for rapid prototyping and short production runs.",
-        "c": "Wood, metal, and plastic are commonly used for making patterns in sand casting due to their distinct properties and suitability for different casting applications: wood for cost-effectiveness and ease of shaping, metal for durability and precision, and plastic for rapid prototyping and short production runs.",
-        "d": "Wood, metal, and plastic are commonly used for making patterns in sand casting due to their distinct properties and suitability for different casting applications: wood for cost-effectiveness and ease of shaping, metal for durability and precision, and plastic for rapid prototyping and short production runs."
+        "a": "A runner is a passage in the gating system that directs molten metal from the sprue to different sections of the mould cavity, ensuring smooth metal flow and reducing defects.",
+        "b": "A runner is a passage in the gating system that directs molten metal from the sprue to different sections of the mould cavity, ensuring smooth metal flow and reducing defects.",
+        "c": "A runner is a passage in the gating system that directs molten metal from the sprue to different sections of the mould cavity, ensuring smooth metal flow and reducing defects.",
+        "d": "A runner is a passage in the gating system that directs molten metal from the sprue to different sections of the mould cavity, ensuring smooth metal flow and reducing defects."
       },
-      "correctAnswer": "d",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "In which of the following pattern, multi-cavity mould may be prepared during casting:",
+      "question": "Why is draft allowance provided in a pattern? (LO3)",
       "answers": {
-        "a": "Solid pattern",
-        "b": "Gates pattern",
-        "c": "Match plate pattern",
-        "d": "None of these"
+        "a": "To prevent the pattern from breaking",
+        "b": "To make removal of the pattern from the mould easier",
+        "c": "To compensate for shrinkage",
+        "d": "To avoid material wastage"
       },
       "explanations": {
-        "a": "Multi-cavity molds are typically prepared during casting with a Split Pattern.",
-        "b": "Multi-cavity molds are typically prepared during casting with a Split Pattern.",
-        "c": "Multi-cavity molds are typically prepared during casting with a Split Pattern.",
-        "d": "Multi-cavity molds are typically prepared during casting with a Split Pattern."
+        "a": "Draft allowance ensures that the pattern can be easily withdrawn from the mould without damaging the cavity walls. It prevents sand particles from sticking to the pattern.",
+        "b": "Draft allowance ensures that the pattern can be easily withdrawn from the mould without damaging the cavity walls. It prevents sand particles from sticking to the pattern.",
+        "c": "Draft allowance ensures that the pattern can be easily withdrawn from the mould without damaging the cavity walls. It prevents sand particles from sticking to the pattern.",
+        "d": "Draft allowance ensures that the pattern can be easily withdrawn from the mould without damaging the cavity walls. It prevents sand particles from sticking to the pattern."
       },
-      "correctAnswer": "d",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following allowances is given to counteract distortion in the casting? (LO3)",
+      "answers": {
+        "a": "Shrinkage allowance",
+        "b": "Draft allowance",
+        "c": "Distortion allowance",
+        "d": "Machining allowance"
+      },
+      "explanations": {
+        "a": "During cooling, uneven stresses can cause warping in certain castings. Distortion allowance is provided in the pattern to compensate for these deformations.",
+        "b": "During cooling, uneven stresses can cause warping in certain castings. Distortion allowance is provided in the pattern to compensate for these deformations.",
+        "c": "During cooling, uneven stresses can cause warping in certain castings. Distortion allowance is provided in the pattern to compensate for these deformations.",
+        "d": "During cooling, uneven stresses can cause warping in certain castings. Distortion allowance is provided in the pattern to compensate for these deformations."
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
