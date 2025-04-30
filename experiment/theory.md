@@ -31,22 +31,22 @@ Apart from hand tools, modern pattern-making shops use power-driven machines to 
 Different tools are used in pattern making based on their function.
 
 (a) Measuring, Making and Layout Tools<br>
-(i) Steel rule 			(ii) Shrinkage rule<br>
-(iii) Caliper 			(iv) Divider<br>
+(i) Steel rule 			  (ii) Shrinkage rule<br>
+(iii) Caliper 			  (iv) Divider<br>
 (v) Marking gauge 		(vi) Trammels<br>
-(vii) Try square 		(viii) T-bevel<br>
+(vii) Try square 		  (viii) T-bevel<br>
 (ix) Combination square.
 
 (b) Clamping Tools::<br>
-(i) Hand vice (ii) Pattern maker’s vice <br>
-(iii) Bar clamp (iv) C-clamp <br>
-(v) Hand screw	(vi) Pinch dog (to hold wooden pieces together for joining etc.).
+(i) Hand vice     (ii) Pattern maker’s vice <br>
+(iii) Bar clamp   (iv) C-clamp <br>
+(v) Hand screw	  (vi) Pinch dog (to hold wooden pieces together for joining etc.).
 
 (c) Sawing Tools:<br>
-(i) Coping saw (ii) Bow saw <br>
-(iii) Compass saw (iv) Rip saw <br>
-(v) Crosscut saw (vi) panel saw <br>
-(vii) Back saw (viii) Dovetail saw <br>
+(i) Coping saw           (ii) Bow saw <br>
+(iii) Compass saw        (iv) Rip saw <br>
+(v) Crosscut saw         (vi) panel saw <br>
+(vii) Back saw           (viii) Dovetail saw <br>
 (ix) Miter saw with miter box.
 
 ### Pattern Allowances:
