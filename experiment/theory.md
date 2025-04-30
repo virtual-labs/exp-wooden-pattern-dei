@@ -32,29 +32,29 @@ Different tools are used in pattern making based on their function.
 
 (a) Measuring, Making and Layout Tools<br>
 (i) Steel rule 			(ii) Shrinkage rule<br>
-(ii) Caliper 			(iv) Divider<br>
+(iii) Caliper 			(iv) Divider<br>
 (v) Marking gauge 		(vi) Trammels<br>
 (vii) Try square 		(viii) T-bevel<br>
 (ix) Combination square.
 
 (b) Clamping Tools::<br>
-(i) Hand vice (ii) Pattern maker’s vice<br>
-(iii) Bar clamp (iv) C-clamp<br>
+(i) Hand vice (ii) Pattern maker’s vice <br>
+(iii) Bar clamp (iv) C-clamp <br>
 (v) Hand screw	(vi) Pinch dog (to hold wooden pieces together for joining etc.).
 
 (c) Sawing Tools:<br>
-(i) Coping saw (ii) Bow saw<br>
-(iii) Compass saw (iv) Rip saw<br>
-(v) Crosscut saw (vi) panel saw<br>
-(vii) Back saw (viii) Dovetail saw<br>
+(i) Coping saw (ii) Bow saw <br>
+(iii) Compass saw (iv) Rip saw <br>
+(v) Crosscut saw (vi) panel saw <br>
+(vii) Back saw (viii) Dovetail saw <br>
 (ix) Miter saw with miter box.
 
 ### Pattern Allowances:
 A pattern is always made slightly larger than the final casting to account for various mechanical and metallurgical factors. These allowances ensure that the final casting has the required shape and dimensions.
 
 The different types of pattern allowances are:
-1. Shrinkage or Contraction Allowance: Compensates for the shrinkage of metal as it cools.<br>
-2. Machining or Finishing Allowance: Extra material is added to allow for machining and finishing.<br>
-3. Draft or Taper Allowance: Ensures easy removal of the pattern from the mould without damaging it.<br>
-4. Distortion or Camber Allowance: Given to counteract possible warping or distortion of the casting during cooling.<br>
-5. Shake or Rapping Allowance: Accounts for the slight movement of the pattern while removing it from the mould.<br>
+1. Shrinkage or Contraction Allowance: Compensates for the shrinkage of metal as it cools. <br>
+2. Machining or Finishing Allowance: Extra material is added to allow for machining and finishing. <br>
+3. Draft or Taper Allowance: Ensures easy removal of the pattern from the mould without damaging it. <br>
+4. Distortion or Camber Allowance: Given to counteract possible warping or distortion of the casting during cooling. <br>
+5. Shake or Rapping Allowance: Accounts for the slight movement of the pattern while removing it from the mould. <br>
