@@ -22,9 +22,9 @@ Properly constructed patterns help in minimizing the overall cost of the casting
 
 
 ### Pattern Making Machines: 
-Apart from hand tools, modern pattern-making shops use power-driven machines to enhance production efficiency and accuracy. These machines help in:
-• Increasing production. 
-• Improving accuracy and maintaining consistency in the patterns.
+Apart from hand tools, modern pattern-making shops use power-driven machines to enhance production efficiency and accuracy. These machines help in:<br>
+• Increasing production.<br> 
+• Improving accuracy and maintaining consistency in the patterns.<br>
 • Performing various operations more conveniently.
 
 ### Tools Used in Pattern Making:

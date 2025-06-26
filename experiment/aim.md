@@ -1,3 +1,7 @@
+### Aim:
+
+To design and manufacture a wooden pattern for a given casting.
+
 ### Learning Objectives:
 
 LO1- To understand the purpose and function of patterns in casting - role of patterns in creating mould cavities and their impact on the final casting process.
