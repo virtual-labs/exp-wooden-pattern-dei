@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is a pattern in the casting process? (LO1)",
+      "answers": {
+        "a": "A moulding material",
+        "b": "A tool for shaping metal",
+        "c": "A model used to create a mould cavity",
+        "d": "A finished casting"
+      },
+      "explanations": {
+        "a": "A pattern is a replica of the final casting, designed to form the cavity in which molten metal is poured. It accounts for various allowances like shrinkage, machining, and draft.",
+        "b": "A pattern is a replica of the final casting, designed to form the cavity in which molten metal is poured. It accounts for various allowances like shrinkage, machining, and draft.",
+        "c": "A pattern is a replica of the final casting, designed to form the cavity in which molten metal is poured. It accounts for various allowances like shrinkage, machining, and draft.",
+        "d": "A pattern is a replica of the final casting, designed to form the cavity in which molten metal is poured. It accounts for various allowances like shrinkage, machining, and draft."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why are patterns made larger than the actual casting? (LO3)",
+      "answers": {
+        "a": "To increase production speed",
+        "b": "To compensate for shrinkage and machining allowances",
+        "c": "To reduce material usage",
+        "d": "To avoid the use of cores"
+      },
+      "explanations": {
+        "a": "When molten metal cools and solidifies, it shrinks, which could lead to dimensional inaccuracies. To counteract this, patterns are made larger by adding shrinkage and machining allowances.",
+        "b": "When molten metal cools and solidifies, it shrinks, which could lead to dimensional inaccuracies. To counteract this, patterns are made larger by adding shrinkage and machining allowances.",
+        "c": "When molten metal cools and solidifies, it shrinks, which could lead to dimensional inaccuracies. To counteract this, patterns are made larger by adding shrinkage and machining allowances.",
+        "d": "When molten metal cools and solidifies, it shrinks, which could lead to dimensional inaccuracies. To counteract this, patterns are made larger by adding shrinkage and machining allowances."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the function of a runner in the moulding process? (LO1)",
+      "answers": {
+        "a": "To support the core",
+        "b": "To allow gases to escape",
+        "c": "To distribute molten metal to the mould cavity",
+        "d": "To improve surface finish"
+      },
+      "explanations": {
+        "a": "A runner is a passage in the gating system that directs molten metal from the sprue to different sections of the mould cavity, ensuring smooth metal flow and reducing defects.",
+        "b": "A runner is a passage in the gating system that directs molten metal from the sprue to different sections of the mould cavity, ensuring smooth metal flow and reducing defects.",
+        "c": "A runner is a passage in the gating system that directs molten metal from the sprue to different sections of the mould cavity, ensuring smooth metal flow and reducing defects.",
+        "d": "A runner is a passage in the gating system that directs molten metal from the sprue to different sections of the mould cavity, ensuring smooth metal flow and reducing defects."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is draft allowance provided in a pattern? (LO3)",
+      "answers": {
+        "a": "To prevent the pattern from breaking",
+        "b": "To make removal of the pattern from the mould easier",
+        "c": "To compensate for shrinkage",
+        "d": "To avoid material wastage"
+      },
+      "explanations": {
+        "a": "Draft allowance ensures that the pattern can be easily withdrawn from the mould without damaging the cavity walls. It prevents sand particles from sticking to the pattern.",
+        "b": "Draft allowance ensures that the pattern can be easily withdrawn from the mould without damaging the cavity walls. It prevents sand particles from sticking to the pattern.",
+        "c": "Draft allowance ensures that the pattern can be easily withdrawn from the mould without damaging the cavity walls. It prevents sand particles from sticking to the pattern.",
+        "d": "Draft allowance ensures that the pattern can be easily withdrawn from the mould without damaging the cavity walls. It prevents sand particles from sticking to the pattern."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following allowances is given to counteract distortion in the casting? (LO3)",
+      "answers": {
+        "a": "Shrinkage allowance",
+        "b": "Draft allowance",
+        "c": "Distortion allowance",
+        "d": "Machining allowance"
+      },
+      "explanations": {
+        "a": "During cooling, uneven stresses can cause warping in certain castings. Distortion allowance is provided in the pattern to compensate for these deformations.",
+        "b": "During cooling, uneven stresses can cause warping in certain castings. Distortion allowance is provided in the pattern to compensate for these deformations.",
+        "c": "During cooling, uneven stresses can cause warping in certain castings. Distortion allowance is provided in the pattern to compensate for these deformations.",
+        "d": "During cooling, uneven stresses can cause warping in certain castings. Distortion allowance is provided in the pattern to compensate for these deformations."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

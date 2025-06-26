@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Why is a rough sketch made before starting the pattern-making process? (LO2)",
+      "answers": {
+        "a": "To randomly shape the pattern",
+        "b": "To estimate the cost of the material",
+        "c": "To visualize the design and ensure accuracy",
+        "d": "To check the strength of the wood"
+      },
+      "explanations": {
+        "a": "Creating a rough sketch before pattern-making helps in accurately planning the dimensions, shape, and allowances required for the casting.",
+        "b": "Creating a rough sketch before pattern-making helps in accurately planning the dimensions, shape, and allowances required for the casting.",
+        "c": "Creating a rough sketch before pattern-making helps in accurately planning the dimensions, shape, and allowances required for the casting.",
+        "d": "Creating a rough sketch before pattern-making helps in accurately planning the dimensions, shape, and allowances required for the casting."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the significance of marking the circle on the wooden piece before cutting? (LO2)",
+      "answers": {
+        "a": "To make cutting easier and more precise",
+        "b": "To reduce the amount of wood used",
+        "c": "To allow freehand cutting",
+        "d": "To avoid gluing errors"
+      },
+      "explanations": {
+        "a": "Marking the required dimensions on the wooden piece ensures precision and accuracy while cutting.",
+        "b": "Marking the required dimensions on the wooden piece ensures precision and accuracy while cutting.",
+        "c": "Marking the required dimensions on the wooden piece ensures precision and accuracy while cutting.",
+        "d": "Marking the required dimensions on the wooden piece ensures precision and accuracy while cutting."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why are cylindrical pieces of different diameters and heights cut separately? (LO2)",
+      "answers": {
+        "a": "To make the pulley lightweight",
+        "b": "To achieve the stepped shape of the pulley",
+        "c": "To reduce wood wastage",
+        "d": "To allow the glue to hold better"
+      },
+      "explanations": {
+        "a": "A pulley has multiple sections with varying diameters and thicknesses, requiring individual pieces to be cut separately.",
+        "b": "A pulley has multiple sections with varying diameters and thicknesses, requiring individual pieces to be cut separately.",
+        "c": "A pulley has multiple sections with varying diameters and thicknesses, requiring individual pieces to be cut separately.",
+        "d": "A pulley has multiple sections with varying diameters and thicknesses, requiring individual pieces to be cut separately."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is adhesive used to join the wooden pieces together? (LO2)",
+      "answers": {
+        "a": "To make the pattern look better",
+        "b": "To ensure the final pattern is a single unit",
+        "c": "To increase the weight of the pattern",
+        "d": "To make the pattern reusable"
+      },
+      "explanations": {
+        "a": "Adhesive is used to bond separate wooden pieces together, forming a single, strong unit that maintains its shape during the casting process.",
+        "b": "Adhesive is used to bond separate wooden pieces together, forming a single, strong unit that maintains its shape during the casting process.",
+        "c": "Adhesive is used to bond separate wooden pieces together, forming a single, strong unit that maintains its shape during the casting process.",
+        "d": "Adhesive is used to bond separate wooden pieces together, forming a single, strong unit that maintains its shape during the casting process."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is the wooden pattern used in the casting process? (LO1)",
+      "answers": {
+        "a": "To be converted directly into metal",
+        "b": "To create the mould cavity",
+        "c": "To be used as a part of the final casting",
+        "d": "To check the metal composition"
+      },
+      "explanations": {
+        "a": "The wooden pattern serves as a replica of the final casting, used to create the mould cavity into which molten metal is poured.",
+        "b": "The wooden pattern serves as a replica of the final casting, used to create the mould cavity into which molten metal is poured.",
+        "c": "The wooden pattern serves as a replica of the final casting, used to create the mould cavity into which molten metal is poured.",
+        "d": "The wooden pattern serves as a replica of the final casting, used to create the mould cavity into which molten metal is poured."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
